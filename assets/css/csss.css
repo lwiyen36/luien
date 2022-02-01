@@ -1,0 +1,45 @@
+body{
+    background-image: url('3k.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.button{
+    text-decoration: none;
+    font-size: 20;
+    color: black;
+}
+button{
+    border-radius: 9px;
+}
+#a:hover{
+    background-color: rgb(211, 208, 208)
+}
+#li:hover{
+    font-weight: bold;
+}
+#trans{
+    transition: .5s all ease,width 2s ease-out,background-color 0.5s ease;
+}
+#trans:hover{
+    width: 27%;
+    background-color: rgb(8, 6, 6);
+}
+#transi{
+    transition: .5s all ease,width 2s ease-out;
+}
+#transi:hover{
+    width: 23%;
+}
+img{
+    cursor: pointer;
+}
+#wi{
+    text-align: center;
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+p{
+    height: ;
+}
